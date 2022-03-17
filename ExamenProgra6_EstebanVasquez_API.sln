@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenProgra6_EstebanVasquez_API", "ExamenProgra6_EstebanVasquez_API\ExamenProgra6_EstebanVasquez_API.csproj", "{31E6B201-668C-4FD5-9788-B3A1B6B6C808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31E6B201-668C-4FD5-9788-B3A1B6B6C808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E6B201-668C-4FD5-9788-B3A1B6B6C808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E6B201-668C-4FD5-9788-B3A1B6B6C808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E6B201-668C-4FD5-9788-B3A1B6B6C808}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05FCCDF0-17F6-4EA5-AD98-15A8555F07F7}
+	EndGlobalSection
+EndGlobal
